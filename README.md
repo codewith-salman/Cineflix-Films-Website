@@ -4,7 +4,9 @@
 <div align="center">
 
 <!-- 🔥 LOGO SECTION (replace path when needed) -->
-<img src="Cineflix%20Films%20Website/assets/images/logo.png" alt="Cineflix Logo" width="140" />
+<div style="background-color:black; display:inline-block; padding:10px;">
+  <img src="Cineflix%20Films%20Website/assets/images/logo.png" alt="Cineflix Logo" width="140" />
+</div>
 
 <br /><br />
 
