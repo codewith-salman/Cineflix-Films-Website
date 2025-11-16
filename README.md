@@ -3,6 +3,11 @@
 <br />
 <div align="center">
 
+<!-- 🔥 LOGO SECTION (replace path when needed) -->
+<img src="Cineflix%20Films%20Website/assets/images/logo.png" alt="Cineflix Logo" width="140" />
+
+<br /><br />
+
 ## 🎬 Cineflix Films Website  
 A modern and stylish **Film Streaming UI Website** designed for showcasing movies, series, and cinematic content.  
 Built using HTML, CSS, and JavaScript — fully responsive, clean, and visually engaging.
@@ -14,7 +19,7 @@ Built using HTML, CSS, and JavaScript — fully responsive, clean, and visually 
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="cineflix%20films%20website/assets/images/desktop.png" alt="Cineflix Films Website Desktop Screenshot" width="100%" />
+<img src="Cineflix%20Films%20Website/assets/images/desktop.png" alt="Cineflix Films Website Desktop Screenshot" width="100%" />
 
 **Cineflix Films Website** offers a cinematic, modern, and responsive interface perfect for displaying films beautifully.  
 With immersive visuals, dark-themed UI, and smooth hover animations, this design mimics premium streaming platforms.  
